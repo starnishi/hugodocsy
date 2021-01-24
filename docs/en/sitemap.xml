@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://starnishi.github.io/hugodocsy/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/categories/"
+                href="https://starnishi.github.io/hugodocsy/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://starnishi.github.io/hugodocsy/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://starnishi.github.io/hugodocsy/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/"
+                href="https://starnishi.github.io/hugodocsy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://starnishi.github.io/hugodocsy/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://starnishi.github.io/hugodocsy/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/tags/"
+                href="https://starnishi.github.io/hugodocsy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://starnishi.github.io/hugodocsy/en/tags/"
                 />
   </url>
   
