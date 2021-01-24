@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://starnishi.github.io/hugodocsy/"
 title = "My New Hugo Site"
 theme = ["docsy"]
 contentDir = "content/ja"
