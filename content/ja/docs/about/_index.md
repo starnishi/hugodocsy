@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About2"
 linkTitle: "About"
 menu:
   main:
