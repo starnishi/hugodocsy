@@ -16,11 +16,11 @@ defaultContentLanguageInSubdir = false
 [languages]
 [languages.ja]
 title = "starnishi docsy"
-description = "Docsy does docs"
-languageName ="Japanese"
+description = "docsy does docs"
+languagename ="japanese"
 [languages.en]
-title = "Docsy"
-description = "Docsy does docs"
+title = "starnishi docsy"
+description = "docsy does docs"
 languageName ="English"
 
 [params]

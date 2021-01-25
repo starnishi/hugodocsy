@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docsy – Docsy</title>
+    <title>starnishi docsy – starnishi docsy</title>
     <link>https://starnishi.github.io/hugodocsy/en/</link>
-    <description>Recent content on Docsy</description>
+    <description>Recent content on starnishi docsy</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	  <atom:link href="https://starnishi.github.io/hugodocsy/en/index.xml" rel="self" type="application/rss+xml" />
